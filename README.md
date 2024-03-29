@@ -10,6 +10,7 @@
 </p>
 
 # Laravel Boilerplate Project
+Untuk Databasenya ada di folder database
 
 _Laravel Boilerplate_ provides a very flexible and extensible way of building your custom Laravel applications.
 
